@@ -20,56 +20,56 @@
 ## 目录
 > 我在这里只会给出代码，并不会给出解释，如果想要了解其中的原理，欢迎购买原书电子版（才￥5，强烈推荐购买！而且如果不购买原书的话，下面的有些原文地址打开是看不到作者的讲解的）
 
-#### 雪花纷飞
+### 雪花纷飞
 
 ![雪花纷飞](./Sampleimg/snow.gif)
 
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261528)
 [在线演示](http://merrier.github.io/web-demo-canvas/snow/snow.html)
 
-#### 粒子动画
+### 粒子动画
 
 ![粒子动画](./Sampleimg/particle.gif)
 
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261529)
 [在线演示](http://merrier.github.io/web-demo-canvas/particle/particle.html)
 
-#### 刮刮卡
+### 刮刮卡
 
 ![刮刮卡](./Sampleimg/card.gif)
 
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261530)
 [在线演示](http://merrier.github.io/web-demo-canvas/card/card.html)
 
-#### 手势密码
+### 手势密码
 
 ![手势密码](./Sampleimg/gestureLock.gif)
 
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261531)
 [在线演示](http://merrier.github.io/web-demo-canvas/gestureLock/gestureLock.html)
 
-#### 截图下载
+### 截图下载
 
 ![截图下载](./Sampleimg/printscreen.png)
 
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261532)
 [在线演示](http://merrier.github.io/web-demo-canvas/printscreen/printscreen.html)
 
-#### 图片放大镜
+### 图片放大镜
 
 ![图片放大镜](./Sampleimg/glass.gif)
 
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261533)
 [在线演示](http://merrier.github.io/web-demo-canvas/glass/glass.html)
 
-#### 粒子聚合
+### 粒子聚合
 
 ![粒子聚合](./Sampleimg/explode.gif)
 
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/266767)
 [在线演示](http://merrier.github.io/web-demo-canvas/explode/explode.html)
 
-#### 不规则三角形彩条
+### 不规则三角形彩条
 
 ![不规则三角形彩条](./Sampleimg/colorBar.png)
 
