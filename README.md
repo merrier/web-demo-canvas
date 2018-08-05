@@ -1,7 +1,7 @@
 # web-demo-canvas
 对《Web开发实战》这本书中的的canvas相关示例进行了完善和补充，欢迎大家购买这本书，支持作者！
 
-## 《Web》开发实战
+## 《Web开发实战》
 这是一本目前为止我看过的最棒的前端实战书籍，其中包含了很多非常实用的例子，同时作者对每一个示例都进行了详尽的解释
 
 * [在线试看地址](https://www.kancloud.cn/dennis/javascriptmethod/261471)
