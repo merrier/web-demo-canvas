@@ -75,3 +75,24 @@
 
 [出处](http://evanyou.me/)
 [在线演示](http://merrier.github.io/web-demo-canvas/colorBar/colorBar.html)
+
+### 鼠标笔墨化
+
+![鼠标笔墨化](./Sampleimg/mouseInk.png)
+
+<!-- [出处](http://evanyou.me/) -->
+[在线演示](http://merrier.github.io/web-demo-canvas/mouseInk/index.html)
+
+### 像素文字爆炸重组
+
+![像素文字爆炸重组](./Sampleimg/pixelText.png)
+
+<!-- [出处](http://evanyou.me/) -->
+[在线演示](http://merrier.github.io/web-demo-canvas/pixelText/index.html)
+
+### 玉兔吃月饼游戏
+
+![玉兔吃月饼游戏](./Sampleimg/rabbitCake.png)
+
+<!-- [出处](http://evanyou.me/) -->
+[在线演示](http://merrier.github.io/web-demo-canvas/rabbitCake/index.html)
